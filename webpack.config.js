@@ -22,7 +22,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'grojj',
+      title: 'SNKR',
       xhtml: true,
       inject: false,
       template: require('html-webpack-template'),
