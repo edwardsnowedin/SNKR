@@ -1,0 +1,14 @@
+DROP TABLE IF EXISTS kicks;
+
+BEGIN;
+
+CREATE TABLE kicks(
+  kick_id SERIAL PRIMARY KEY,
+  brand VARCHAR NOT NULL,
+  img_url VARCHAR,
+  price VARCHAR NOT NULL,
+  year VARCHAR NOT NULL,
+  size INT NOT NULL
+);
+
+COMMIT;
