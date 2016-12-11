@@ -1,0 +1,19 @@
+{
+  "name": "snkr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardsnowedin/SNKR.git"
+  },
+  "author": "Matthew Paz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edwardsnowedin/SNKR/issues"
+  },
+  "homepage": "https://github.com/edwardsnowedin/SNKR#readme"
+}
