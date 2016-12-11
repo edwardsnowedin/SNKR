@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.logo{
+  background-image: url('./aj3.jpg')center center no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.logo < h1 {
+  color: red;
+}
